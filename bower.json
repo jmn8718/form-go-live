@@ -1,0 +1,27 @@
+{
+  "name": "form-go-live",
+  "version": "0.0.1",
+  "authors": [
+    "Jose Miguel Navarro <jmn8718@gmail..com>"
+  ],
+  "description": "Element to capture pictures",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed",
+    "camera"
+  ],
+  "main": "form-go-live.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/jmn8718/form-go-live",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^4.0.0"
+  }
+}
